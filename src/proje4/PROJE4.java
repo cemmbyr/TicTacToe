@@ -1,4 +1,3 @@
-//CEM BAYIR 160202066
 package proje4;
 
 import java.io.File;
